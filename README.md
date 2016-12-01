@@ -46,8 +46,11 @@ http://designpatternsphp.readthedocs.io/en/latest/README.html
 * Kent Beck's Mastering Programming recommandations  
 https://m.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/
 
-* PHP the right way
+* PHP the right way  
 http://www.phptherightway.com/
+
+* Curated list of PHP related packages  
+https://github.com/ziadoz/awesome-php
 
 ### General Javascript
 
@@ -55,6 +58,9 @@ http://www.phptherightway.com/
 https://lodash.com/docs/
 
 ### Laravel
+
+* Laravel Package I like  
+https://github.com/XavRsl?page=1&tab=stars&utf8=%E2%9C%93&q=laravel
 
 ### Testing
 
