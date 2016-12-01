@@ -46,6 +46,9 @@ http://designpatternsphp.readthedocs.io/en/latest/README.html
 * Kent Beck's Mastering Programming recommandations  
 https://m.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/
 
+* PHP the right way
+http://www.phptherightway.com/
+
 ### General Javascript
 
 * Functionnal programming library Lodash  
