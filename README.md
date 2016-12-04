@@ -18,6 +18,15 @@ https://www.digitalocean.com/community/tutorials/how-to-gather-infrastructure-me
 
 ### System
 
+* 25 Most Frequently Used Linux IPTables Rules Examples  
+https://gist.github.com/virtualstaticvoid/1024546
+
+* htop explained  
+https://peteris.rocks/blog/htop/
+
+* Debug using strace - an introduction  
+https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
+
 ### Versionning
 
 ### Deploying
@@ -51,6 +60,9 @@ http://www.phptherightway.com/
 
 * Curated list of PHP related packages  
 https://github.com/ziadoz/awesome-php
+
+* What's new in PHP 7.1 ?  
+https://kinsta.com/blog/php-7-1-0/
 
 ### General Javascript
 
