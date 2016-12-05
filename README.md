@@ -69,6 +69,9 @@ https://kinsta.com/blog/php-7-1-0/
 * Functionnal programming library Lodash  
 https://lodash.com/docs/
 
+* WebWorkers explained like never before  
+http://kosamari.com/notes/Service-Worker-what-are-you
+
 ### Laravel
 
 * Laravel Package I like  
