@@ -82,6 +82,9 @@ https://github.com/XavRsl?page=1&tab=stars&utf8=%E2%9C%93&q=laravel
 * Functionnal user scenario testing (French <img src="http://www.geonames.org/flags/x/fr.gif" width="15">)  
 http://blog.milamberspace.net/index.php/jmeter-pages/jmeter-test-de-charges-dun-site-web-mode-demploi/jmeteriser-son-scenario-fonctionnel
 
+* Understanding legacy code with TDD  
+http://www.tddfellow.com/blog/2016/12/05/understanding-legacy-code-using-explorative-test-driven-development-technique/
+
 ## SEO
 
 * Ultimate guide to robots.txt  
