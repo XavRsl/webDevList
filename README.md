@@ -120,3 +120,8 @@ https://gchq.github.io/CyberChef/
 
 * List of Free Software network services and web applications which can be hosted locally  
 https://github.com/Kickball/awesome-selfhosted
+
+## Inspiration
+
+* Great photographer Marcin Ryczek  
+http://www.marcinryczek.com/
