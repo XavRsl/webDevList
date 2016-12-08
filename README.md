@@ -85,6 +85,11 @@ http://blog.milamberspace.net/index.php/jmeter-pages/jmeter-test-de-charges-dun-
 * Understanding legacy code with TDD  
 http://www.tddfellow.com/blog/2016/12/05/understanding-legacy-code-using-explorative-test-driven-development-technique/
 
+## Accessibility
+
+* Choosing a font and helpful practical exemples  
+http://alistapart.com/article/accessibility-whack-a-mole
+
 ## SEO
 
 * Ultimate guide to robots.txt  
