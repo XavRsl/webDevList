@@ -45,6 +45,9 @@ https://marvelapp.com/styleguide/overview/introduction
 * Great looking Flat UI Theme  
 http://flatfull.com/themes/flatkit/
 
+* 20 Frontend guides with checklists  
+https://www.sitepoint.com/20-docs-guides-front-end-developers-10/
+
 ## Development
 
 ### General PHP
