@@ -8,6 +8,11 @@ https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-
 
 ## DevOps
 
+### Monitoring
+
+* Interactive web dashboards and powerful performance and health alarms  
+http://my-netdata.io/
+
 ### Cloud
 
 * Ansible for the Cloud  
