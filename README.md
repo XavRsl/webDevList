@@ -32,6 +32,9 @@ https://peteris.rocks/blog/htop/
 * Debug using strace - an introduction  
 https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
 
+* Collection of useful Mac OS X dot files  
+https://github.com/freekmurze/dotfiles
+
 ### Versionning
 
 ### Deploying
