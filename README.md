@@ -21,6 +21,9 @@ https://www.ansible.com/cloud
 * How To Gather Infrastructure Metrics with Packetbeat and ELK  
 https://www.digitalocean.com/community/tutorials/how-to-gather-infrastructure-metrics-with-packetbeat-and-elk-on-centos-7
 
+* How to Manage Multistage Environments with Ansible  
+https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible
+
 ### System
 
 * 25 Most Frequently Used Linux IPTables Rules Examples  
@@ -75,6 +78,9 @@ https://github.com/ziadoz/awesome-php
 * What's new in PHP 7.1 ?  
 https://kinsta.com/blog/php-7-1-0/
 
+* Generate PHP core dumps on segfaults in PHP-FPM  
+https://ma.ttias.be/generate-php-core-dumps-segfaults-php-fpm/
+
 ### General Javascript
 
 * Functionnal programming library Lodash  
@@ -96,6 +102,11 @@ http://blog.milamberspace.net/index.php/jmeter-pages/jmeter-test-de-charges-dun-
 * Understanding legacy code with TDD  
 http://www.tddfellow.com/blog/2016/12/05/understanding-legacy-code-using-explorative-test-driven-development-technique/
 
+### BASH
+
+* Testing Your Shell Scripts, with Bats  
+https://medium.com/@pimterry/testing-your-shell-scripts-with-bats-abfca9bdc5b9#.1a8q1sgp6
+
 ## Accessibility
 
 * Choosing a font and helpful practical exemples  
@@ -111,6 +122,11 @@ https://www.sitepoint.com/9-point-technical-seo-checklist-for-developers/
 
 * SitePoint SEO-related articles  
 https://www.sitepoint.com/woorank/
+
+## Emailing
+
+* Email Security: DMARC, SPF & DKIM  
+https://scotthelme.co.uk/email-security-dmarc/
 
 ## Learning
 
