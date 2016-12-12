@@ -59,6 +59,9 @@ http://flatfull.com/themes/flatkit/
 * 20 Frontend guides with checklists  
 https://www.sitepoint.com/20-docs-guides-front-end-developers-10/
 
+* 20+ Docs and Guides for Front-end Developers  
+https://www.sitepoint.com/20-docs-guides-front-end-developers-9/
+
 ## Development
 
 ### General PHP
