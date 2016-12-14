@@ -169,3 +169,8 @@ https://www.gitbook.com/
 
 * Great photographer Marcin Ryczek  
 http://www.marcinryczek.com/
+
+## Productivity
+
+* Habits of Highly Productive Individuals  
+https://laravel-news.com/habits-of-highly-productive-individuals
