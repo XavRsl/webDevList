@@ -24,6 +24,9 @@ https://www.digitalocean.com/community/tutorials/how-to-gather-infrastructure-me
 * How to Manage Multistage Environments with Ansible  
 https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible
 
+* Scale Laravel application  
+https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/
+
 ### System
 
 * 25 Most Frequently Used Linux IPTables Rules Examples  
