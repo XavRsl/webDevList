@@ -41,6 +41,9 @@ https://peteris.rocks/blog/htop/
 * Debug using strace - an introduction  
 https://jorge.fbarr.net/2014/01/19/introduction-to-strace/
 
+* Linux Tracing Tools SuperPowers Video  
+http://www.brendangregg.com/blog/2016-12-21/linux-tracing-in-15-minutes.html
+
 * Collection of useful Mac OS X dot files  
 https://github.com/freekmurze/dotfiles
 
