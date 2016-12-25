@@ -30,6 +30,9 @@ https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-enviro
 * Scale Laravel application  
 https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/
 
+* Ansible deployment Capistrano style  
+https://github.com/ansistrano/deploy
+
 ### System
 
 * 25 Most Frequently Used Linux IPTables Rules Examples  
