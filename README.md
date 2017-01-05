@@ -9,6 +9,9 @@ https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-
 * HTTP Security Headers Analyzer  
 https://securityheaders.io/
 
+* A+ Grade SSL Score  
+https://blog.bracebin.com/achieving-perfect-ssl-labs-score-with-go
+
 ## DevOps
 
 ### Monitoring
