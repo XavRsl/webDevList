@@ -1,5 +1,5 @@
 # WebDevList
-Let's update a list of Web Dev related links... !
+Let's update a list of Web Dev related links... ! GitBook can be seen here : https://www.gitbook.com/book/xavrsl/webdevlist
 
 ## Security
 
