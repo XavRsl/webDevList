@@ -177,6 +177,9 @@ https://github.com/Kickball/awesome-selfhosted
 * Write and host docs or books  
 https://www.gitbook.com/
 
+* Test how mobile friendly your site is  
+https://testmysite.thinkwithgoogle.com/
+
 ## Inspiration
 
 * Great photographer Marcin Ryczek  
