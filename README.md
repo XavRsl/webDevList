@@ -63,6 +63,11 @@ https://github.com/freekmurze/dotfiles
 * GitLab guide to deployment and Environments  
 https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/
 
+### Production
+
+* Checklist before going live  
+https://github.com/spatie-custom/checklist-going-live
+
 ## UI/UX
 
 * Change your form into a conversation  
