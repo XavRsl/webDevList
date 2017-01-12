@@ -14,6 +14,9 @@ https://blog.bracebin.com/achieving-perfect-ssl-labs-score-with-go
 
 ## DevOps
 
+* DepOps workflow description  
+https://www.herebedragons.io/devops-part1
+
 ### Monitoring
 
 * Interactive web dashboards and powerful performance and health alarms  
