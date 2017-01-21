@@ -61,6 +61,12 @@ https://github.com/freekmurze/dotfiles
 * Good read on Mysql Query Optimization  
 http://www.cocomore.com/blog/mysql-query-optimization
 
+* Tool to get insight of your mysql installation  
+http://mysqltuner.com/
+
+* 10 Mysql performance tuning settings  
+https://www.percona.com/blog/2014/01/28/10-mysql-performance-tuning-settings-after-installation/
+
 ### Versionning
 
 ### Deploying
