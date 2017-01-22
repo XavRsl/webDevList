@@ -85,7 +85,12 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-el
 ### Production
 
 * Checklist before going live  
-https://github.com/spatie-custom/checklist-going-live
+https://github.com/spatie-custom/checklist-going-live  
+
+## Optimization
+
+* GZip for Nginx  
+https://www.digitalocean.com/community/tutorials/how-to-add-the-gzip-module-to-nginx-on-ubuntu-16-04
 
 ## UI/UX
 
