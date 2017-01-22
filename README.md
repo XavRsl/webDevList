@@ -12,6 +12,9 @@ https://securityheaders.io/
 * A+ Grade SSL Score  
 https://blog.bracebin.com/achieving-perfect-ssl-labs-score-with-go
 
+* Application Security Learning Resources  
+https://github.com/paragonie/awesome-appsec
+
 ## DevOps
 
 * DepOps workflow description  
