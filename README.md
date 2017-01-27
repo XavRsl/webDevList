@@ -70,6 +70,9 @@ http://mysqltuner.com/
 * 10 Mysql performance tuning settings  
 https://www.percona.com/blog/2014/01/28/10-mysql-performance-tuning-settings-after-installation/
 
+* Set database indexes on Polymorphic associations  
+https://mauricio.github.io/2008/09/27/handling-database-indexes-for-rails-polymorphic-associations.html
+
 ### Versionning
 
 ### Deploying
