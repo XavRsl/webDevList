@@ -112,6 +112,9 @@ https://www.sitepoint.com/20-docs-guides-front-end-developers-10/
 * 20+ Docs and Guides for Front-end Developers  
 https://www.sitepoint.com/20-docs-guides-front-end-developers-9/
 
+* VueJS component Style Guide  
+https://github.com/pablohpsilva/vuejs-component-style-guide
+
 ## Development
 
 ### General PHP
