@@ -85,6 +85,9 @@ https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/
 * Install and configure elasticSearch on Ubuntu 16.04
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
 
+* Configure ElasticSearch on Linux for optimization  
+https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
+
 ### Production
 
 * Checklist before going live  
