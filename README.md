@@ -125,6 +125,9 @@ https://github.com/pablohpsilva/vuejs-component-style-guide
 * Design Patterns PHP  
 http://designpatternsphp.readthedocs.io/en/latest/README.html
 
+* Design Patterns for humans  
+https://github.com/kamranahmedse/design-patterns-for-humans
+
 * Kent Beck's Mastering Programming recommandations  
 https://m.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/
 
