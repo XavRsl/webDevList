@@ -88,6 +88,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-el
 * Configure ElasticSearch on Linux for optimization  
 https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
 
+* Play with ElasticSearch in a test environement  
+https://www.found.no/play/#
+
 ### Production
 
 * Checklist before going live  
