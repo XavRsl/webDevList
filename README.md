@@ -121,6 +121,12 @@ https://www.sitepoint.com/20-docs-guides-front-end-developers-9/
 * VueJS component Style Guide  
 https://github.com/pablohpsilva/vuejs-component-style-guide
 
+* Design trends for 2017  
+https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide?ref=webdesignernews.com
+
+* Hero icons - SVG CSS styled buttons  
+http://www.heroicons.com/
+
 ## Development
 
 ### General PHP
