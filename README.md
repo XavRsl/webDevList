@@ -80,6 +80,9 @@ https://mauricio.github.io/2008/09/27/handling-database-indexes-for-rails-polymo
 
 ### Versionning
 
+* hub MAKES GIT BETTER WITH GITHUB  
+https://hub.github.com/
+
 ### Deploying
 
 * GitLab guide to deployment and Environments  
