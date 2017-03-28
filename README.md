@@ -176,6 +176,9 @@ http://kosamari.com/notes/Service-Worker-what-are-you
 * Laravel Package I like  
 https://github.com/XavRsl?page=1&tab=stars&utf8=%E2%9C%93&q=laravel
 
+* Laravel and ElasticSearch HowTo  
+https://blog.madewithlove.be/post/how-to-integrate-your-laravel-app-with-elasticsearch/
+
 ### Testing
 
 * Functionnal user scenario testing (French <img src="http://www.geonames.org/flags/x/fr.gif" width="15">)  
