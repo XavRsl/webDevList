@@ -137,6 +137,11 @@ http://www.heroicons.com/
 
 ## Development
 
+### Development good practice
+
+* Create User stories  
+http://codingsans.com/blog/user-stories-with-templates
+
 ### General PHP
 
 * Design Patterns PHP  
