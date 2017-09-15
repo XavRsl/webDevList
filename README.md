@@ -1,5 +1,5 @@
 # WebDevList
-Let's update a list of Web Dev related links... ! GitBook can be seen here : https://www.gitbook.com/book/xavrsl/webdevlist
+Let's update a list of Web Dev related links...! GitBook can be seen here : https://www.gitbook.com/book/xavrsl/webdevlist
 
 ## Security
 
@@ -69,7 +69,7 @@ https://dougblack.io/words/a-good-vimrc.html
 * Good read on Mysql Query Optimization  
 http://www.cocomore.com/blog/mysql-query-optimization
 
-* Tool to get insight of your mysql installation  
+* Tool to get insight of your MySQL installation  
 http://mysqltuner.com/
 
 * 10 Mysql performance tuning settings  
@@ -90,7 +90,7 @@ https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/
 
 ### Search
 
-* Install and configure elasticSearch on Ubuntu 16.04
+* Install and configure ElasticSearch on Ubuntu 16.04
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
 
 * Configure ElasticSearch on Linux for optimization  
@@ -150,7 +150,7 @@ http://designpatternsphp.readthedocs.io/en/latest/README.html
 * Design Patterns for humans  
 https://github.com/kamranahmedse/design-patterns-for-humans
 
-* Kent Beck's Mastering Programming recommandations  
+* Kent Beck's Mastering Programming recommendations  
 https://m.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/
 
 * PHP the right way  
@@ -168,9 +168,13 @@ https://ma.ttias.be/generate-php-core-dumps-segfaults-php-fpm/
 * Test your code complexity  
 https://laravel-news.com/code-complexity-tools
 
+* Tor Voodoo from PHP
+https://www.clementlevallois.fr/2015/05/utiliser-tor-pour-vos-scripts-php/
+
+
 ### General Javascript
 
-* Functionnal programming library Lodash  
+* Functional programming library Lodash  
 https://lodash.com/docs/
 
 * WebWorkers explained like never before  
@@ -186,7 +190,7 @@ https://blog.madewithlove.be/post/how-to-integrate-your-laravel-app-with-elastic
 
 ### Testing
 
-* Functionnal user scenario testing (French <img src="http://www.geonames.org/flags/x/fr.gif" width="15">)  
+* Functionnal user scenario testing (French)  
 http://blog.milamberspace.net/index.php/jmeter-pages/jmeter-test-de-charges-dun-site-web-mode-demploi/jmeteriser-son-scenario-fonctionnel
 
 * Understanding legacy code with TDD  
@@ -199,7 +203,7 @@ https://medium.com/@pimterry/testing-your-shell-scripts-with-bats-abfca9bdc5b9#.
 
 ## Accessibility
 
-* Choosing a font and helpful practical exemples  
+* Choosing a font and helpful practical examples  
 http://alistapart.com/article/accessibility-whack-a-mole
 
 ## SEO
